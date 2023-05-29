@@ -19,7 +19,7 @@
 ![Auth Mail-Activate Status](Swagger_Screenshots/Auth/MailAktivasyonKodu.png)
 #### Mailimize gelen aktivasyon kodu ile hesabımızı aktif ediyoruz.
 
-![Auth Activate Status](Swagger_Screenshots/Auth/Activate Status.png)
+![Auth Activate Status](Swagger_Screenshots/Auth/ActivateStatus.png)
 #### Username ve password ile giriş yapıyoruz.
 
 ![Auth Login](Swagger_Screenshots/Auth/Login.png)
@@ -29,10 +29,10 @@
 #### DELETE
 ![Auth Delete](Swagger_Screenshots/Auth/Delete.png)
 #### Parola unutulduğu zaman maile bir parola gitmesi için email ister.
-![Auth Forgot Password](Swagger_Screenshots/Auth/Forgot Password.png)
+![Auth Forgot Password](Swagger_Screenshots/Auth/ForgotPassword.png)
 #### Şifre sıfırlamak için maile sistemin ürettiği yeni şifre geliyor.
 
-![Auth ForgotPassword Epostası](Swagger_Screenshots/Auth/ForgotPassword Epostası.png)
+![Auth ForgotPassword Epostası](Swagger_Screenshots/Auth/ForgotPasswordEpostası.png)
 #### User update işlemi
 ![User UserUpdate](Swagger_Screenshots/User/UserUpdate.png)
 
