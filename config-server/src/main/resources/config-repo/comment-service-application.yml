@@ -1,0 +1,21 @@
+server:
+  port: 8060
+
+spring:
+  zipkin:
+    enabled: true
+    base-url: http://localhost:9411
+    service:
+      name: userprofile-service
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: yemekSepetiUser
+      username: Java7User
+      password: root
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: java7
+    password: root

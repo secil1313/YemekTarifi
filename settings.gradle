@@ -1,0 +1,8 @@
+rootProject.name = 'HomeworkYemekTarifi'
+include 'auth-service'
+include 'userprofile-service'
+include 'recipe-service'
+include 'comment-service'
+include 'mail-service'
+include 'config-server'
+
