@@ -2,12 +2,27 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HomeworkYemekTarifi.iml" filepath="$PROJECT_DIR$/HomeworkYemekTarifi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-service/HomeworkYemekTarifi.auth-service.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-service/HomeworkYemekTarifi.auth-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-service/HomeworkYemekTarifi.auth-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-service/HomeworkYemekTarifi.auth-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-service/HomeworkYemekTarifi.auth-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-service/HomeworkYemekTarifi.auth-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/comment-service/HomeworkYemekTarifi.comment-service.iml" filepath="$PROJECT_DIR$/.idea/modules/comment-service/HomeworkYemekTarifi.comment-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/comment-service/HomeworkYemekTarifi.comment-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/comment-service/HomeworkYemekTarifi.comment-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/comment-service/HomeworkYemekTarifi.comment-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/comment-service/HomeworkYemekTarifi.comment-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server/HomeworkYemekTarifi.config-server.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server/HomeworkYemekTarifi.config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server/HomeworkYemekTarifi.config-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server/HomeworkYemekTarifi.config-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server/HomeworkYemekTarifi.config-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server/HomeworkYemekTarifi.config-server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mail-service/HomeworkYemekTarifi.mail-service.iml" filepath="$PROJECT_DIR$/.idea/modules/mail-service/HomeworkYemekTarifi.mail-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mail-service/HomeworkYemekTarifi.mail-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mail-service/HomeworkYemekTarifi.mail-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mail-service/HomeworkYemekTarifi.mail-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/mail-service/HomeworkYemekTarifi.mail-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeworkYemekTarifi.main.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeworkYemekTarifi.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recipe-service/HomeworkYemekTarifi.recipe-service.iml" filepath="$PROJECT_DIR$/.idea/modules/recipe-service/HomeworkYemekTarifi.recipe-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/recipe-service/HomeworkYemekTarifi.recipe-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/recipe-service/HomeworkYemekTarifi.recipe-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recipe-service/HomeworkYemekTarifi.recipe-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/recipe-service/HomeworkYemekTarifi.recipe-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeworkYemekTarifi.test.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeworkYemekTarifi.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/userprofile-service/HomeworkYemekTarifi.userprofile-service.iml" filepath="$PROJECT_DIR$/.idea/modules/userprofile-service/HomeworkYemekTarifi.userprofile-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/userprofile-service/HomeworkYemekTarifi.userprofile-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/userprofile-service/HomeworkYemekTarifi.userprofile-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/userprofile-service/HomeworkYemekTarifi.userprofile-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/userprofile-service/HomeworkYemekTarifi.userprofile-service.test.iml" />
     </modules>
   </component>
 </project>
