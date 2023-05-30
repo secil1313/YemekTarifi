@@ -23,11 +23,7 @@
 #### Username ve password ile giriş yapıyoruz.
 
 ![Auth Login](Swagger_Screenshots/Auth/Login.png)
-#### UPDATE
 
-![Auth Update](Swagger_Screenshots/Auth/Update.png)
-#### DELETE
-![Auth Delete](Swagger_Screenshots/Auth/Delete.png)
 #### Parola unutulduğu zaman maile bir parola gitmesi için email ister.
 ![Auth Forgot Password](Swagger_Screenshots/Auth/ForgotPassword.png)
 #### Şifre sıfırlamak için maile sistemin ürettiği yeni şifre geliyor.
